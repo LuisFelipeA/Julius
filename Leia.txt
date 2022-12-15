@@ -1,0 +1,6 @@
+Projeto de um site de controle financeiro, onde o front consome os dados de uma API.
+
+Tecnologias usadas:
+    -PHP
+    -Laravel
+    -Bootstrap
